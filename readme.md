@@ -1,4 +1,4 @@
-## Frank, a lightweight MVC framework built with Sinatra
+## Nancy, a lightweight MVC framework powered by Sinatra
 
 Start server: `rackup`
 
